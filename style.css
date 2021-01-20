@@ -1,0 +1,21 @@
+/* Simple project with javascript   */
+#main{
+    width: 100%;
+    height: auto;
+  
+}
+.light{
+    margin-left:40%;
+}
+.btn-primary {
+    padding: 10px;
+    background-color: #dc3545;
+    border: #dc3545;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    outline: none;
+}
+.btn-primary:hover{
+    background-color: #bb2d3b;
+}
